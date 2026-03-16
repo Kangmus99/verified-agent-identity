@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'bangmuse55'
         required: true
-        default: 'kangmus99 AI Agent'
+        default: 'bangmuse55 AI Agent'
 
 jobs:
   verify:
